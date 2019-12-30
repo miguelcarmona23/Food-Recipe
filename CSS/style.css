@@ -226,3 +226,6 @@ p.time {
 h1, h2, p, li {
   font-family: Helvetica;
 }
+.text-color {
+  color: SeaGreen;
+}
